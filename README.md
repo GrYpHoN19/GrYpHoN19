@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Girish Rathore - A Bangalore based developer.
-- 👀 I’m interested in Sofftware Development,Python Developet and Data Science.
+- 👀 I’m interested in Software Development,Python Developet and Data Science.
 - 🌱 I’m currently learning Advance Python.
 - 💞️ I’m looking to collaborate on python projects and ml models.
 - 📫contact- grrathore01@gmail.com
